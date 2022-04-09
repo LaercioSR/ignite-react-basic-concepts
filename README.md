@@ -6,7 +6,7 @@
 <h1 align="center">Basic Concepts Challenge</h1>
 
 <h4 align="center">
- 🚧  Challenge in Progress  🚧
+ ✅  Challenge Completed  ✅
 </h4>
 
 <p align="center">
@@ -23,8 +23,8 @@ Platform for creating and deleting to do. Repository containing the solving the 
 ## Features
 
 - [x] Add a new task
-- [ ] Remove a task
-- [ ] Mark and unmark a task as complete
+- [x] Remove a task
+- [x] Mark and unmark a task as complete
 
 ## How to Run
 
