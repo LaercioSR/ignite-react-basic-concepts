@@ -3,9 +3,7 @@
     <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-basic-concepts/main/public/rocketseat-logo.png" height="120" width="auto" alt="Rocketseat Logo" />
   </a>
 </p>
-<p align="center">
-  <h1>Basic Concepts Challenge</h1>
-</p>
+<h1 align="center">Basic Concepts Challenge</h1>
 
 <h4 align="center">
  🚧  Challenge in Progress  🚧
