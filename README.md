@@ -22,7 +22,7 @@ Platform for creating and deleting to do. Repository containing the solving the 
 
 ## Features
 
-- [ ] Add a new task
+- [x] Add a new task
 - [ ] Remove a task
 - [ ] Mark and unmark a task as complete
 
