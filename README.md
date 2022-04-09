@@ -20,6 +20,10 @@
 
 Platform for creating and deleting to do. Repository containing the solving the basic concepts challenge developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-basic-concepts/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
+</p>
+
 ## Features
 
 - [x] Add a new task
